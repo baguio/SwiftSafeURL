@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SafeURL_Example' do
+  pod 'SafeURL', :path => '../'
+
+  target 'SafeURL_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
