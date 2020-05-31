@@ -2,7 +2,7 @@
 
 This is a Swift library where the purpose is to check URLs validity on build time. This was inspired by [SwiftLint](https://github.com/realm/SwiftLint) and me disliking force-unwrapped code.
 
-This project depends on a sibiling project, [SafeURLChecker](https://github.com/baguio/SwiftSafeURL)
+This project depends on a sibiling project, [SafeURLChecker](https://github.com/baguio/SwiftSafeURLChecker)
 
 At the moment it is not possible to use this directly on projects since I cuurrently don't have a Apple Developer membership and, therefore, can't distribute signed builds of the URL checker
 
